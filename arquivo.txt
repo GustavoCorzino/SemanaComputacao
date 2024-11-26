@@ -1,0 +1,2 @@
+Arquivo para o minicurso de Git/GitHub da semana da computação
+
